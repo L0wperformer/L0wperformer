@@ -1,7 +1,5 @@
 Hello :)  
 I'm interested in coding for fun and software-engineering though I am at the start and still learning a lot :). 
-Currently I'm studying and working on my bachelor thesis. 
-
 https://www.linkedin.com/in/pascal-rosenfeld-168251250/
 
 
